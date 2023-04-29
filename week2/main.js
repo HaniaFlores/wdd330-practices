@@ -86,5 +86,4 @@ function getListContentArray() {
 by getListContent() as individual arguments to the append() function. */
 ul.append(...getListContentArray());
 
-/* ---------- TASK 1 ------------- */
 
